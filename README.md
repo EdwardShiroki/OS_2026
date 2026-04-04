@@ -29,4 +29,5 @@
 
 ``` bash
 gcc -std=c89 -Wall -Wextra -pedantic global.c os.c task.c resource.c test.c -o test_rtos
+./test_rtos.exe
 ```
